@@ -37,11 +37,11 @@ Like for the password or the data saved on the phone, I encrypt each url (*https
 ***
 ***
 ## Screenshot
-![Image text](/capture1.png)
-![Image text](/capture2.png)
-![Image text](/capture3.png)
-![Image text](/capture4.png)
-![Image text](/capture5.png)
+![Image text](capture1.png)
+![Image text](capture2.png)
+![Image text](capture3.png)
+![Image text](capture4.png)
+![Image text](capture5.png)
 
 
 
