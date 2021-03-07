@@ -37,7 +37,7 @@ Like for the password or the data saved on the phone, I encrypt each url (*https
 
 ***
 ## Screenshot
-![Image 1](https://github.com/juliettemahieu/-only-/blob/main/capture1.png)
+![Image 1](https://github.com/juliettemahieu/-only-/blob/main/capture1.jpg)
 ![Image 2](https://github.com/juliettemahieu/-only-/blob/main/capture2.png)
 ![Image 3](https://github.com/juliettemahieu/-only-/blob/main/capture3.png)
 ![Image 4](https://github.com/juliettemahieu/-only-/blob/main/capture4.png)
