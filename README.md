@@ -38,10 +38,10 @@ Like for the password or the data saved on the phone, I encrypt each url (*https
 ***
 ## Screenshot
 ![Image 1](https://github.com/juliettemahieu/-only-/blob/main/capture1.jpg)
-![Image 2](https://github.com/juliettemahieu/-only-/blob/main/capture2.png)
-![Image 3](https://github.com/juliettemahieu/-only-/blob/main/capture3.png)
-![Image 4](https://github.com/juliettemahieu/-only-/blob/main/capture4.png)
-![Image 5](https://github.com/juliettemahieu/-only-/blob/main/capture5.png)
+![Image 2](https://github.com/juliettemahieu/-only-/blob/main/capture2.jpg)
+![Image 3](https://github.com/juliettemahieu/-only-/blob/main/capture3.jpg)
+![Image 4](https://github.com/juliettemahieu/-only-/blob/main/capture4.jpg)
+![Image 5](https://github.com/juliettemahieu/-only-/blob/main/capture5.jpg)
 
 
 
