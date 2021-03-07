@@ -10,7 +10,7 @@ The application is offline and you can load the information clicking on the butt
 The first time the application will be lanch, no information will be save so the list are empty, but once you load, the information are safely saved in the phone and even if the application is close and reopen the information are keeped.
 
 
-***
+
 ***
 ## Explain how you ensure user is the right one starting the app
 I put a login system with simply a inputText where the user is ask to "Enter your password :".
@@ -19,7 +19,7 @@ First I apply a very long key to the string to encrypt with Cipher.ENCRYPT_MODE,
 Like that the password is not save in clear. 
 There is a unique key only use to encrypt the password.
 
-***
+
 ***
 ## How do you securely save user's data on your phone ?
 The password is "EsilvMobile1".
@@ -28,13 +28,13 @@ Then when I read it every time I enter the activity, or when I reaload, I decryp
 There is a unique key for saving the config data and one unique key for accounts data.
 If the password entered is wrong, the inputfield is empty and an error message "Wrong password." appears. The users can try as long as he/she wants.
 
-***
+
 ***
 ## How did you hide the API url ?
 Like for the password or the data saved on the phone, I encrypt each url (*https://60102f166c21e10017050128.mockapi.io/labbbank/config* and *https://60102f166c21e10017050128.mockapi.io/labbbank/accounts*) with a key for each one and after pass it in base 64.
 
 
-***
+
 ***
 ## Screenshot
 ![Image text](capture1.png)
